@@ -53,12 +53,12 @@ npm install
 
 ## Environment Variables
 
-Create a .env file in the root directory and add the following:
-CLERK_PUBLISHABLE_KEY=your_key
-CLERK_SECRET_KEY=your_key
-MONGODB_URI=your_mongodb_uri
-NEXT_PUBLIC_CLERK_FRONTEND_API=your_key
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_key
+- Create a .env file in the root directory and add the following:
+- CLERK_PUBLISHABLE_KEY=your_key
+- CLERK_SECRET_KEY=your_key
+- MONGODB_URI=your_mongodb_uri
+- NEXT_PUBLIC_CLERK_FRONTEND_API=your_key
+- NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_key
 
 ---
 
